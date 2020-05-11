@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://sorae.github.io/testing-zola/sitemap.xml
